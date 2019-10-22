@@ -5,7 +5,7 @@ public class SumFct {
         int cur1 = 0;
         int cur2 = 0;
         int res = 0;
-        int delta = 0;
+        int delta;// = 0;
 
         for(int i=1;i<=n.intValue()+1;i++) {
 
